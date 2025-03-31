@@ -206,7 +206,7 @@ a:focus {
 
     .navbar-light .navbar-nav .nav-link:hover,
     .navbar-light .navbar-nav .nav-link.active {
-        color: #111111;
+        color: #f10909;
     }
     
     .navbar-light.nav-sticky .navbar-nav .nav-link:hover,
@@ -262,7 +262,7 @@ a:focus {
 
 .hero .hero-image {
     right:100px;
-    top: 100px;
+    top: 65px;
     position: relative;
     text-align: right;
     padding-right: 75px;
